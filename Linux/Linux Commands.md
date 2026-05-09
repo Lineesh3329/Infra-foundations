@@ -124,3 +124,6 @@ Linux commands are instructions you type into a terminal (command line) to inter
       history             - Show command history
       exit                - Exit terminal
       man <command>       - Show command manual
+
+#### Note: 
+All Linux notes added to `Linux-for-cloud-engineers` repository thus only linux commands added in this repository.
